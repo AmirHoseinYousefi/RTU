@@ -1,0 +1,4 @@
+change line 104 in w5100.cpp from :
+SPI.begin();
+to :
+SPI.begin(14 ,12 ,13 ,5);
