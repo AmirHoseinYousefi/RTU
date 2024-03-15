@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=NetD25_1 Pin=R96-1
+Removed Pin From Net: NetName=NetD27_1 Pin=R103-1
+Removed Pin From Net: NetName=NetD29_1 Pin=R110-1
+Removed Pin From Net: NetName=NetD31_1 Pin=R115-1
+Removed Member From Class: ClassName=U_GPIO Member=R96
+Removed Member From Class: ClassName=U_GPIO Member=R103
+Removed Member From Class: ClassName=U_GPIO Member=R110
+Removed Member From Class: ClassName=U_GPIO Member=R115
+Added Pin To Net: NetName=NetD25_1 Pin=LED27-2
+Added Pin To Net: NetName=NetD27_1 Pin=LED29-2
+Added Pin To Net: NetName=NetD29_1 Pin=LED31-2
+Added Pin To Net: NetName=NetD31_1 Pin=LED33-2
+Added Pin To Net: NetName=NetD25_1 Pin=OP5-4
+Added Pin To Net: NetName=NetD27_1 Pin=OP7-4
+Added Pin To Net: NetName=NetD29_1 Pin=OP9-4
+Added Pin To Net: NetName=NetD31_1 Pin=OP11-4
+Add Net: Net with name "ADS_IN0" already exists
+Add Net: Net with name "ADS_IN1" already exists
+Add Net: Net with name "ADS_IN2" already exists
+Add Net: Net with name "ADS_IN3" already exists
+Add Net: Net with name "GPIO_SCL" already exists
+Add Net: Net with name "GPIO_SDA" already exists

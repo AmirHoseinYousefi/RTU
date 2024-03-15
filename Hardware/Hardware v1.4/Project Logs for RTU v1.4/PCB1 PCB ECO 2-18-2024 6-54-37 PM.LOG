@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=ACINN1 Pin=D26-1
+Removed Pin From Net: NetName=ACINN2 Pin=D28-1
+Removed Pin From Net: NetName=ACINN3 Pin=D30-1
+Removed Pin From Net: NetName=ACINN1 Pin=OP6-2
+Removed Pin From Net: NetName=ACINN2 Pin=OP8-2
+Removed Pin From Net: NetName=ACINN3 Pin=OP10-2
+Added Component: Designator=R26(R 0805)
+Add component (AddParameter): Name = "BOM??"; Value = "Chip resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "???"; VariantName = "[No Variations]"
+Added Component: Designator=R28(R 0805)
+Add component (AddParameter): Name = "BOM??"; Value = "Chip resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "???"; VariantName = "[No Variations]"
+Added Component: Designator=R44(R 0805)
+Add component (AddParameter): Name = "BOM??"; Value = "Chip resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "???"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ACINN1 Pin=R26-2
+Added Pin To Net: NetName=ACINN2 Pin=R28-2
+Added Pin To Net: NetName=ACINN3 Pin=R44-2
+Add Net: Net with name "ADS_IN0" already exists
+Add Net: Net with name "ADS_IN1" already exists
+Add Net: Net with name "ADS_IN2" already exists
+Add Net: Net with name "ADS_IN3" already exists
+Add Net: Net with name "GPIO_SCL" already exists
+Add Net: Net with name "GPIO_SDA" already exists
+Added Pin To Net: NetName=NetD26_1 Pin=D26-1
+Added Pin To Net: NetName=NetD26_1 Pin=OP6-2
+Added Pin To Net: NetName=NetD26_1 Pin=R26-1
+Added Net: Name=NetD26_1
+Added Pin To Net: NetName=NetD28_1 Pin=D28-1
+Added Pin To Net: NetName=NetD28_1 Pin=OP8-2
+Added Pin To Net: NetName=NetD28_1 Pin=R28-1
+Added Net: Name=NetD28_1
+Added Pin To Net: NetName=NetD30_1 Pin=D30-1
+Added Pin To Net: NetName=NetD30_1 Pin=OP10-2
+Added Pin To Net: NetName=NetD30_1 Pin=R44-1
+Added Net: Name=NetD30_1
+Added Member To Class: ClassName=U_GPIO Member=Component R26 10K
+Added Member To Class: ClassName=U_GPIO Member=Component R28 10K
+Added Member To Class: ClassName=U_GPIO Member=Component R44 10K

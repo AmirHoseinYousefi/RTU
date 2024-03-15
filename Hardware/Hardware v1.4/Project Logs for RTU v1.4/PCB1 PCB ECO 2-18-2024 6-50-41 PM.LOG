@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=3.3V Pin=R105-1
+Removed Pin From Net: NetName=GPIO_RESET Pin=R105-2
+Removed Member From Class: ClassName=U_GPIO Member=R105
+Added Component: Designator=JP14(KF-8P-BLK-H-3.81)
+Add component (AddParameter): Name = "BOM??"; Value = "8P???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "???"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ACINF1 Pin=JP14-1
+Added Pin To Net: NetName=ACINN1 Pin=JP14-2
+Added Pin To Net: NetName=ACINF2 Pin=JP14-3
+Added Pin To Net: NetName=ACINN2 Pin=JP14-4
+Added Pin To Net: NetName=ACINF3 Pin=JP14-5
+Added Pin To Net: NetName=ACINN3 Pin=JP14-6
+Added Pin To Net: NetName=GPIO_RESET Pin=RA2-1
+Add Net: Net with name "ADS_IN0" already exists
+Add Net: Net with name "ADS_IN1" already exists
+Add Net: Net with name "ADS_IN2" already exists
+Add Net: Net with name "ADS_IN3" already exists
+Add Net: Net with name "GPIO_SCL" already exists
+Add Net: Net with name "GPIO_SDA" already exists
+Added Member To Class: ClassName=U_GPIO Member=Component JP14 HDR-1X8
